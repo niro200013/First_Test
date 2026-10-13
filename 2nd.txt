@@ -1,0 +1,11 @@
+second text file
+file inserted with Visual code 
+Next add git file
+then commit to local git
+Next Pust to Origin Git Repo
+
+git add 2nd.txt
+git commit -m "created 2nd.txt file"
+git status
+git push origin main
+git status
